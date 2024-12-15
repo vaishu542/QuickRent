@@ -12,7 +12,14 @@ QuickRent is your ultimate solution for hassle-free gadget rentals! Whether you 
 - ⌚ **Smartwatches** – Stay connected with style.  
 - 📱 **Smart Devices** – Experience innovation at your fingertips.  
 
-Say goodbye to high costs and hello to flexibility!  
+Say goodbye to high costs and hello to flexibility!
+
+---
+
+## 📷 **Screenshots**  
+Here are some snapshots of QuickRent in action:  
+1. Home Page![Screenshot 1](https://github.com/vaishu542/QuickRent/blob/main/Screenshot%201.png)  
+2. Gadgets![Screenshot 2](https://github.com/vaishu542/QuickRent/blob/main/Screenshot%202.png)
 
 ---
 
@@ -29,13 +36,6 @@ Say goodbye to high costs and hello to flexibility!
 - ⚛️ **React.js** – For a seamless and responsive UI.  
 - 🎨 **Tailwind CSS** – Making designs simple, clean, and beautiful.  
 - 🌐 **Netlify** – For fast and reliable deployment.  
-
----
-
-## 📷 **Screenshots**  
-Here are some snapshots of QuickRent in action:  
-1. Home Page![Screenshot 1](https://github.com/vaishu542/QuickRent/blob/main/Screenshot%201.png)  
-2. Gadgets![Screenshot 2](https://github.com/vaishu542/QuickRent/blob/main/Screenshot%202.png)
 
 ---
 
