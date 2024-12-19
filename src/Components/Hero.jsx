@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Header from './Header';
-import { useNavigate } from 'react-router-dom';
+import { Link,useNavigate } from 'react-router-dom';
 import Footer from './Footer';
 
 const Hero = () => {
@@ -50,8 +50,8 @@ const Hero = () => {
                     QuickRent is your go-to platform for affordable, fast, and reliable gadget rentals—laptops, gaming consoles, and more—whenever you need them!
                     </p>
                     <div className="flex">
-                        <a
-                            href="/gadgets"
+                         <Link
+                            to="/gadgets"
                             className="inline-flex items-center justify-center px-5 py-3 mr-3 text-base font-medium text-center text-white rounded-lg border-2 border-purple-700 "
                         >
                             Let's Explore
@@ -68,7 +68,7 @@ const Hero = () => {
                                     clipRule="evenodd"
                                 ></path>
                             </svg>
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </section>
